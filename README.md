@@ -12,6 +12,6 @@ Fork this repo, wrote your own code, create new issue then make pull request. Fe
 
 # Thanks to
 components      : https://github.com/components
-\nalmasaeed2010   : https://github.com/almasaeed2010
-\nionic-team      : https://github.com/ionic-team
-\nt4t5            : https://github.com/t4t5
+<br>almasaeed2010   : https://github.com/almasaeed2010
+<br>ionic-team      : https://github.com/ionic-team
+<br>t4t5            : https://github.com/t4t5
