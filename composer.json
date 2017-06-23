@@ -1,0 +1,10 @@
+{
+	"description": "Shim repositories of a list of popular open source projects",
+	"name": "alzen8work/plugins",
+	"type": "plugins",
+	"homepage": "https://github.com/alzen8work/plugins",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
