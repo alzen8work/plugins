@@ -1,9 +1,9 @@
 Shim repositories of a list of popular open source plugin at:
 
-github.com/components
-github.com/almasaeed2010
-github.com/ionic-team
-github.com/t4t5
+github.com/components <br>
+github.com/almasaeed2010 <br>
+github.com/ionic-team <br>
+github.com/t4t5 <br>
 
 
 ## Contribute
